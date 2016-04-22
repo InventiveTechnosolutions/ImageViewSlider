@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ImageViewSlider</string>
+    <string name="action_search" />
+
+    <string name="hint_search">Type and Search</string>
+    <string name="search_label">Search</string>
+</resources>
